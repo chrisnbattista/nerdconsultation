@@ -1,4 +1,5 @@
-html {text-align: center; font-family:'Space Mono', 'mono', sans-serif !important;}
+html {text-align: center;}
+body {font-family:'Space Mono', 'mono', sans-serif !important;}
 div {width: 69vw;}
 img {width: 27% !important; box-shadow: 1px 1px 2px white, 0 0 11px green, 0 0 2px darkgreen;}
 canvas {position:fixed; left:0; top:0; z-index:-1;}
