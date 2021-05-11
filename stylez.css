@@ -2,3 +2,5 @@ html {text-align: center;}
 div {width: 69vw;}
 img {width: 69% !important;}
 canvas {position:fixed; left:0; top:0}
+ul {display:inline-block; text-align:left;}
+li:before { content: '✨'; margin-left: -20px; margin-right:10px;}
